@@ -1,0 +1,12 @@
+.home-hero {
+  background: var(--background-color);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  padding: 48px 48px 40px 48px;
+  min-height: 300px;
+  max-height: 300px;
+  align-items: center;
+}
